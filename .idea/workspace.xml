@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1b25c0b-4ca1-42b2-8b36-cbaaf64377f4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RRD5XTH2bbEcr2osu9wt652iCJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaMethodFindUsagesOptions.isOverridingMethods": "true",
+    "JavaMethodFindUsagesOptions.isSearchForTextOccurrences": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Paginas" />
+      <recent name="modulos.produtos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProdutosTest">
+    <configuration name="ProdutosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LojinhaWebAutomacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulos.produtos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modulos.produtos" />
+      <option name="MAIN_CLASS_NAME" value="modulos.produtos.ProdutosTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutosTest.TestNaoEPermitidoRegistrarProdutoComValorIgualAZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LojinhaWebAutomacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulos.produtos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modulos.produtos" />
+      <option name="MAIN_CLASS_NAME" value="modulos.produtos.ProdutosTest" />
+      <option name="METHOD_NAME" value="TestNaoEPermitidoRegistrarProdutoComValorIgualAZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutosTest.TestNaoEPermitidoRegistrarProdutosComValorIgualAZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LojinhaWebAutomacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulos.produtos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modulos.produtos" />
+      <option name="MAIN_CLASS_NAME" value="modulos.produtos.ProdutosTest" />
+      <option name="METHOD_NAME" value="TestNaoEPermitidoRegistrarProdutosComValorIgualAZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutosTest.testNaoEPermitidoRegistrarProdutoAcimaDeSeteMil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LojinhaWebAutomacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulos.produtos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modulos.produtos" />
+      <option name="MAIN_CLASS_NAME" value="modulos.produtos.ProdutosTest" />
+      <option name="METHOD_NAME" value="testNaoEPermitidoRegistrarProdutoAcimaDeSeteMil" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutosTest.testNaoEPermitidoRegistrarProdutoComValorIgualAZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LojinhaWebAutomacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulos.produtos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modulos.produtos" />
+      <option name="MAIN_CLASS_NAME" value="modulos.produtos.ProdutosTest" />
+      <option name="METHOD_NAME" value="testNaoEPermitidoRegistrarProdutoComValorIgualAZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutosTest.testPossoAdicionarProdutosComValorDeZeroASeteMilReais" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LojinhaWebAutomacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulos.produtos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modulos.produtos" />
+      <option name="MAIN_CLASS_NAME" value="modulos.produtos.ProdutosTest" />
+      <option name="METHOD_NAME" value="testPossoAdicionarProdutosComValorDeZeroASeteMilReais" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProdutosTest" />
+        <item itemvalue="JUnit.ProdutosTest.testPossoAdicionarProdutosComValorDeZeroASeteMilReais" />
+        <item itemvalue="JUnit.ProdutosTest.testNaoEPermitidoRegistrarProdutoAcimaDeSeteMil" />
+        <item itemvalue="JUnit.ProdutosTest.TestNaoEPermitidoRegistrarProdutoComValorIgualAZero" />
+        <item itemvalue="JUnit.ProdutosTest.TestNaoEPermitidoRegistrarProdutosComValorIgualAZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1b25c0b-4ca1-42b2-8b36-cbaaf64377f4" name="Changes" comment="" />
+      <created>1687203839542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687203839542</updated>
+    </task>
+    <servers />
+  </component>
+</project>
